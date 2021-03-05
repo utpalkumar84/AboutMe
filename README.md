@@ -9,3 +9,6 @@
 #### 3> Run the project
 	a> Select Yes if you trust the IIS Express SSL certificate.
 	b> Select Yes if you agree to trust the development certificate.
+	
+![Postman GET](./Screenshots/Postman-Executing-GET.png)
+![AboutMe Page](./Screenshots/AboutMe.png)
