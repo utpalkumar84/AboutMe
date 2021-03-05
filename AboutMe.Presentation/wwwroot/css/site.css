@@ -1,0 +1,21 @@
+﻿.content-table {
+    align-content: center;
+    margin: 25px 0;
+    max-width: 400px;
+}
+
+.content-table thead tr {
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    border-bottom: 5px solid #0026ff;
+    background-color: aliceblue;
+}
